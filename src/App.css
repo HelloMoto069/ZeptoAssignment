@@ -1,0 +1,72 @@
+/* ... (previous code) */
+
+.chip.highlighted {
+  background-color: #ffcc00;
+}
+
+.chip-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%; 
+  border-bottom: 4px solid #007bff; 
+}
+
+.chip-input-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.chip {
+  background-color: #e0e0e0;
+  border-radius: 20px;
+  padding: 8px 12px;
+  margin: 4px;
+  display: flex;
+  align-items: center;
+}
+
+.chip-remove {
+  cursor: pointer;
+  margin-left: 8px;
+}
+
+.item-list {
+  margin-top: 8px;
+  width: 25%; 
+  position: absolute;
+  top: 10%;
+}
+
+.item {
+  cursor: pointer;
+  padding: 8px 12px;
+  margin: 4px;
+  background-color: #f0f0f0;
+  border-radius: 20px;
+  color: #000;
+}
+
+input {
+  border: none;
+  outline: none;
+  padding: 8px;
+  margin: 4px;
+  font-size: 16px;
+  border-radius: 20px;
+}
+
+.chip-avatar {
+  width: 20px; 
+  height: 20px;
+  border-radius: 50%;
+  margin-right: 8px;
+}
+
+.item-avatar {
+  width: 20px; 
+  height: 20px;
+  border-radius: 50%;
+  margin-right: 8px;
+}
+
+

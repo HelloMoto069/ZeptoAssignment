@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Anuruddh Singh",
+    "age": 29,
+    "city": "New York",
+    "image": "https://easydrawingguides.com/wp-content/uploads/2017/04/how-to-draw-goku-featured-image-1200.png"
+  },
+  {
+    "name": "Hello Moto",
+    "age": 28,
+    "city": "San Francisco",
+    "image": "https://easydrawingguides.com/wp-content/uploads/2017/04/how-to-draw-goku-featured-image-1200.png"
+  },
+  {
+    "name": "Kajal Sharma",
+    "age": 24,
+    "city": "Los Angeles",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvPx5Ngn3BqU_b1o4MO5-90QnJXVEdVLYmaA&usqp=CAU"
+  },
+  {
+    "name": "Jyoti",
+    "age": 28,
+    "city": "China",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNJryFTSQUV8Zuu_EGw2iUCpMbIIKWHBl2eQ&usqp=CAU"
+  },
+  {
+    "name": "Priyanka Pandey",
+    "age": 30,
+    "city": "Japan",
+    "image": "https://cdn.icon-icons.com/icons2/2560/PNG/512/woman_user_avatar_account_female_icon_153149.png"
+  },
+  {
+    "name": "Neha Sharma",
+    "age": 31,
+    "city": "Australia",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOGwfUocgt06bolZVFKcwKotR052n6afrPkg&usqp=CAU"
+  },
+  {
+    "name": "Anushka Sharma",
+    "age": 48,
+    "city": "Nepal",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOGwfUocgt06bolZVFKcwKotR052n6afrPkg&usqp=CAU"
+  }
+]
