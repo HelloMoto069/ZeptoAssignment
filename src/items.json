@@ -18,8 +18,14 @@
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvPx5Ngn3BqU_b1o4MO5-90QnJXVEdVLYmaA&usqp=CAU"
   },
   {
-    "name": "Jyoti",
-    "age": 28,
+    "name": "Kanika Vats",
+    "age": 25,
+    "city": "China",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvPx5Ngn3BqU_b1o4MO5-90QnJXVEdVLYmaA&usqp=CAU"
+  },
+  {
+    "name": "Jannie",
+    "age": 29,
     "city": "China",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNJryFTSQUV8Zuu_EGw2iUCpMbIIKWHBl2eQ&usqp=CAU"
   },
