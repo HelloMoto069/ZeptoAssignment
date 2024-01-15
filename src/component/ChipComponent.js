@@ -58,7 +58,7 @@ const ChipComponent = () => {
     <div className="chip-container">
       <div className="chip-input-container">
         {chips.map((chip, index) => (
-          <div key={index} className="chip">
+          <div key={index} className={`chip ${highlightedChip === chip ? 'highlighted' : ''}`}>
             <img
               src={items.find((item) => item.name === chip)?.image}
               alt={chip}

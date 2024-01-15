@@ -1,7 +1,7 @@
 /* ... (previous code) */
 
 .chip.highlighted {
-  background-color: #ffcc00;
+  background-color: #ff7400;
 }
 
 .chip-container {
@@ -70,3 +70,10 @@ input {
 }
 
 
+.item:hover {
+  background-color: #aaffaa;
+}
+
+.chip:hover {
+  background-color: #aaffaa; 
+}
